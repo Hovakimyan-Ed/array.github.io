@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+}
+.big-div{
+    margin: 10px;
+}
+.big-div input{
+    margin: 10px 0;
+}
+.btn{
+    margin: 10px 0;
+}
+.p1{
+    font-size: 33px;
+}
